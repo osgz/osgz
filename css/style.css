@@ -78,3 +78,14 @@ a {
 	color:#0ffbaa;
 	display:inline-block;
 }
+.child {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    letter-spacing: -5px;
+    mix-blend-mode: overlay;
+    text-shadow: 0 0 5px #fff;
+    color: #fff6;
+	font-size:80px;
+}
