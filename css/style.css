@@ -21,6 +21,16 @@ code {
 	padding:0 3px;
 	background-color:#0ffbaa;
 }
+
+.css-logo {
+    text-align: center;
+    font-size: 4.5em;
+    -webkit-letter-spacing: 0.05em;
+    -moz-letter-spacing: 0.05em;
+    -ms-letter-spacing: 0.05em;
+    letter-spacing: 0.05em;
+}
+
 dd,ul {
 	margin-left:0;
 	padding-left:25px;
