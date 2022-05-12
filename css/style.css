@@ -1,5 +1,6 @@
-@font-face  {
-    src:  url("https://cdn.osgz.com/font/HarmonyOS_Sans_SC.woff")  format("woff")
+@font-face{
+   font-family: 'HarmonyOS Sans SC';
+   src : url('https://cdn.osgz.com/font/HarmonyOS_Sans_SC.woff');
 }
 
 html {
@@ -12,7 +13,6 @@ html,body,#main {
 	margin:0;
 }
 body {
-	font-family:-apple-system,BlinkMacSystemFont,"HarmonyOS Sans SC",sans-serif;
 	font-size:16px;
 	line-height:1.5;
 	overflow-wrap:break-word;
