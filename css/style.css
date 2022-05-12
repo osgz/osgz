@@ -1,6 +1,4 @@
-@font-face{ 
-   src : url('https://cdn.osgz.com/font/HarmonyOS_Sans_SC.woff');
-}
+@import url('https://cdn.osgz.com/font/HarmonyOS_Sans_SC.woff');
 
 html {
 	box-sizing:border-box;
