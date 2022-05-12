@@ -19,11 +19,38 @@ body {
 	background:white;
 	color:black;
 }
+
+pre,
 code {
-	font-family:Menlo,Monaco,Lucida Console,Liberation Mono,DejaVu Sans Mono,Bitstream Vera Sans Mono,Courier New,monospace;
-	font-size:1rem;
-	padding:0 3px;
-	background-color:#0ffbaa;
+    font-size: 15px;
+    border: 1px solid #e8e8e8;
+    border-radius: 3px;
+    background-color: #3a3a3a;
+    color: #EEEEEE
+}
+
+pre,
+code {
+    font-size: 15px;
+    border: 1px solid #e8e8e8;
+    border-radius: 3px;
+    background-color: #3a3a3a;
+    color: #EEEEEE
+}
+
+code {
+    padding: 1px 5px
+}
+
+pre {
+    padding: 8px 12px;
+    overflow-x: scroll
+}
+
+pre>code {
+    border: 0;
+    padding-right: 0;
+    padding-left: 0
 }
 
 .css-logo {
