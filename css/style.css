@@ -1,6 +1,7 @@
 @font-face {
   	font-family: 'HarmonyOS Sans SC';   /*字体名称*/
- 	src: url('https://cdn.osgz.com/font/HarmonyOS_Sans/HarmonyOS_Sans_Bold.ttf') format('truetype'); /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+ 	src:	url('https://cdn.osgz.com/font/HarmonyOS_Sans/HarmonyOS_Sans_SC.woff') format('woff'),
+		url('https://cdn.osgz.com/font/HarmonyOS_Sans/HarmonyOS_Sans_SC.ttf') format('truetype'); /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
 	font-weight: normal;
  	font-style: normal;
 }
